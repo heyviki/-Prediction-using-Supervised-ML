@@ -1,7 +1,7 @@
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/-49441H1hZY)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=PqK20qW_akA)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/heyviki/-Prediction-using-Supervised-ML/blob/main/Task-1_Linear_Regression.ipynb)
 
 1. Predict the percentage of marks of an student based on the number of study hours.
